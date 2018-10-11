@@ -7,6 +7,7 @@ pip install tornado ; pip install paramiko;
 
 # 如何使用
 python ws_app.py
+
 默认8011端口，vi ws_app.py以修改
 
 浏览器访问http://ws_app服务器地址:端口号?h=192.168.113.128&p=22&u=root&passwd=admin
